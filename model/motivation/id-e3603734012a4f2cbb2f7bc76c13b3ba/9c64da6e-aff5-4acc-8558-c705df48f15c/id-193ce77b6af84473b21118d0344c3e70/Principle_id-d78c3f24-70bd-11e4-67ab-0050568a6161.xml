@@ -1,0 +1,30 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardiseer waar mogelijk"
+    id="id-d78c3f24-70bd-11e4-67ab-0050568a6161"
+    documentation="Standaardiseer waar het kan, maak specifiek waar het moet.">
+  <properties
+      key="Toelichting"
+      value="Standaardisatie reduceert variëteit en kosten, en zorgt voor een betere interoperabiliteit en beveiliging. Hiermee komt bovendien een grotere wendbaarheid tot stand. Door te kiezen voor open standaarden wordt vendor lock-in voorkomen."/>
+  <properties
+      key="ID"
+      value="GAP08"/>
+  <properties
+      key="Implicatie"
+      value="Op de dienstenlaag wil je digitaal voor standaard dienstverlening en ontmoeten voor complexe dienstverlening zie ook principes dienstverlening. Op de informatielaag, CG principes verwerken."/>
+  <properties
+      key="NORA principe"
+      value="https://www.noraonline.nl/wiki/Standaardiseer_waar_mogelijk"/>
+  <properties
+      key="Referentiearchitectuur"
+      value="NORA"/>
+  <properties
+      key="GEMMA type"
+      value="Principe"/>
+  <properties
+      key="Object ID"
+      value="2ddfcdb5-ccf6-450a-8a95-bbdacc05cfc8"/>
+  <properties
+      key="NORA implicaties"
+      value="https://www.noraonline.nl/wiki/Gebruik_de_standaard_met_het_meest_specifieke_werkingsgebied, https://www.noraonline.nl/wiki/Gebruik_een_actueel_register_met_standaarden, https://www.noraonline.nl/wiki/Gebruik_gestandaardiseerde_referentiedata, https://www.noraonline.nl/wiki/Gebruik_open_standaarden_voor_modellering, https://www.noraonline.nl/wiki/Gebruik_standaard_oplossingen_(implicatie), https://www.noraonline.nl/wiki/Gebruik_standaard_oplossingen_zonder_maatwerk, https://www.noraonline.nl/wiki/Kies_bij_cloudoplossingen_SaaS_boven_PaaS_boven_IaaS, https://www.noraonline.nl/wiki/Maak_afspraken_over_nieuwe_(en_oude)_versies_van_standaarden, https://www.noraonline.nl/wiki/Pas_je_eigen_proces_en_organisatie_aan_aan_de_standaard_oplossing, https://www.noraonline.nl/wiki/Pas_open_standaarden_toe, https://www.noraonline.nl/wiki/Pleeg_onderhoud_op_de_toegepaste_standaarden"/>
+</archimate:Principle>
